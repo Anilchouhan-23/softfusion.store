@@ -5,28 +5,28 @@ import { useScrollReveal } from "./useScrollReveal";
 
 const testimonials = [
   {
-    text: "SmartSoftHub has been instrumental in setting up our entire IT infrastructure. Their CCTV installation was professional and the quality of cameras is outstanding. Highly recommended!",
+    text: "SmartSoftHub has been instrumental in designing our software architecture. Their web app development was professional and the quality of code is outstanding. Highly recommended!",
     name: "Rajesh Kumar",
     company: "TechVista Pvt. Ltd",
     image: "/images/clients/client1.jpg",
     rating: 5,
   },
   {
-    text: "We have 50+ cameras installed and 100+ cameras under AMC with SmartSoftHub. Their support team is responsive and the maintenance service is exceptional. Great partnership!",
+    text: "We have multiple custom SaaS tools built by SmartSoftHub. Their support team is responsive and the deployment service is exceptional. Great partnership!",
     name: "Priya Sharma",
     company: "InnoTech Solutions",
     image: "/images/clients/client2.jpg",
     rating: 5,
   },
   {
-    text: "From networking to attendance systems, SmartSoftHub handles all our IT needs. Their team is knowledgeable, punctual, and delivers quality work every time. A trusted technology partner.",
+    text: "From API integrations to digital marketing, SmartSoftHub handles all our IT needs. Their team is knowledgeable, punctual, and delivers quality work every time. A trusted technology partner.",
     name: "Anil Reddy",
     company: "Global Enterprises",
     image: "/images/clients/client3.jpg",
     rating: 5,
   },
   {
-    text: "Excellent service and competitive pricing. SmartSoftHub set up our complete office network and EPABX system within the committed timeline. Very satisfied with their professionalism.",
+    text: "Excellent service and pricing. SmartSoftHub set up our complete cloud infrastructure and email campaigns within the committed timeline. Very satisfied with their professionalism.",
     name: "Sanjay Mehta",
     company: "Bright Education Group",
     image: "/images/clients/client1.jpg",

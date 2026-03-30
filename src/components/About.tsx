@@ -46,15 +46,15 @@ export default function About() {
             We are Leading Company
           </h2>
           <p className="text-cyan text-lg font-medium mb-5">
-            Fastest repair service with best price!
+            Innovative software and digital solutions!
           </p>
           <p className="text-gray-600 mb-4 leading-relaxed">
             We at SmartSoftHub are a group of dedicated engineers with more
-            than a decade of experience in project designing, planning,
-            execution, and maintenance. Specializing in CCTV installation,
-            networking, and IT infrastructure, we have worked on a wide range of
-            major projects involving safety systems, access control, burglar
-            alarm systems, and surveillance solutions.
+            than a decade of experience in software development, cloud
+            infrastructure, and digital marketing. Specializing in SaaS solutions,
+            custom applications, and IT consulting, we have worked on a wide range of
+            major projects involving enterprise systems, mobile apps, marketing
+            campaigns, and scalable digital services.
           </p>
           <p className="text-gray-600 leading-relaxed">
             From corporate offices to residential buildings, educational

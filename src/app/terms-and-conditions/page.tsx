@@ -99,10 +99,7 @@ export default function TermsPage() {
           </p>
 
           <p className="text-gray-600 mb-4">
-            All items sold by SmartSoftHub are warranted solely by the
-            manufacturer/distributor. All items requiring repair should be sent to the
-            manufacturer/distributor directly for service. We are not liable if the
-            manufacturer/distributor fails to perform warranty service.
+            All software licenses and digital services sold by SmartSoftHub are supported according to the terms of the respective vendor/service provider or our SLA agreements. All support requests should be directed through our designated support channels. We are not liable if third-party vendors fail to perform their defined services.
           </p>
 
           <p className="text-gray-600 mb-4">
@@ -112,7 +109,7 @@ export default function TermsPage() {
 
           <p className="text-gray-600 mb-4 font-semibold uppercase text-sm">
             THERE IS NO IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
-            PURPOSE ON ANY ITEM SOLD BY BYTEBRICKS STORE.
+            PURPOSE ON ANY ITEM SOLD BY SMARTSOFTHUB.
           </p>
 
           <div className="border-t border-gray-200 my-8" />
@@ -243,12 +240,12 @@ export default function TermsPage() {
           </p>
           <p className="text-gray-600 mb-4 font-semibold uppercase text-sm">
             ALTHOUGH REASONABLE CARE HAS BEEN TAKEN WITH REGARD TO THIS SITE&apos;S
-            CONTENT, BYTEBRICKS STORE DOES NOT WARRANT OR REPRESENT THAT THIS
+            CONTENT, SMARTSOFTHUB DOES NOT WARRANT OR REPRESENT THAT THIS
             SITE&apos;S CONTENT IS ACCURATE, COMPLETE, OR UP TO DATE, NOR DOES IT
             WARRANT OR REPRESENT THAT ACCESS TO AND USE OF THIS SITE OR THE SERVER WHICH
             MAKES IT AVAILABLE WILL BE UNINTERRUPTED, ERROR-FREE, AND FREE OF COMPUTER
             VIRUSES OR OTHER HARMFUL COMPONENTS. THE CONTENT OF THIS SITE MAY INCLUDE
-            TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS FOR WHICH BYTEBRICKS STORE
+            TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS FOR WHICH SMARTSOFTHUB
             ASSUMES NO RESPONSIBILITY.
           </p>
 

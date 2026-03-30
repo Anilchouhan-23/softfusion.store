@@ -6,40 +6,40 @@ import Link from "next/link";
 
 const services = [
   {
-    icon: "fa-video",
-    title: "CCTV Installation",
-    href: "/services/cctv-installation",
-    desc: "Professional CCTV surveillance solutions for corporate, industrial, domestic, and commercial establishments with HD and IP camera systems.",
+    icon: "fa-code",
+    title: "Software Development",
+    href: "/services",
+    desc: "Custom software engineering, web applications, and mobile app development to solve complex business challenges securely.",
   },
   {
-    icon: "fa-network-wired",
-    title: "Networking Solutions",
-    href: "/services/network-solutions",
-    desc: "Complete LAN/WAN networking infrastructure including structured cabling, router configuration, firewall setup, and network management.",
+    icon: "fa-cloud",
+    title: "SaaS Solutions",
+    href: "/services",
+    desc: "Scalable Software-as-a-Service platforms for your business needs, including cloud infrastructure setup and ongoing management.",
   },
   {
-    icon: "fa-laptop-medical",
-    title: "Computer Repair",
-    href: "/services/computer-repair",
-    desc: "Expert repair services for desktops, laptops, and servers. Hardware troubleshooting, OS installation, data recovery, and AMC.",
+    icon: "fa-toolbox",
+    title: "Digital Tools",
+    href: "/services",
+    desc: "Productivity, collaboration, and comprehensive digital tools tailored to streamline your company's workflows and operations.",
   },
   {
-    icon: "fa-phone-volume",
-    title: "EPABX / Intercom",
-    href: "/services/epabx",
-    desc: "Enterprise communication systems with EPABX and intercom installation, configuration, and maintenance for seamless connectivity.",
+    icon: "fa-bullhorn",
+    title: "Social Media Marketing",
+    href: "/services",
+    desc: "Data-driven social media management and ad campaigns designed to increase brand visibility, engagement, and conversion rates.",
   },
   {
-    icon: "fa-fingerprint",
-    title: "Attendance Machines",
-    href: "/services/attendance-machines",
-    desc: "Biometric and RFID attendance systems with software integration, access control solutions for offices, factories, and institutions.",
+    icon: "fa-envelope-open-text",
+    title: "Email Marketing",
+    href: "/services",
+    desc: "Automated, personalized email marketing campaigns to nurture leads, retain customers, and drive recurring revenue.",
   },
   {
-    icon: "fa-comment-sms",
-    title: "Bulk SMS",
-    href: "/services/bulk-sms",
-    desc: "Affordable bulk SMS and RCS messaging services for marketing campaigns, notifications, OTP delivery, and business communication.",
+    icon: "fa-server",
+    title: "IT Consulting",
+    href: "/services",
+    desc: "Strategic IT consulting, infrastructure planning, technical audits, and digital transformation roadmaps for modern enterprises.",
   },
 ];
 
@@ -57,8 +57,8 @@ export default function ServicesPage() {
               What We Offer
             </h2>
             <p className="text-gray-500 text-lg max-w-2xl mx-auto">
-              SmartSoftHub provides comprehensive IT and security solutions
-              tailored for businesses of all sizes across India.
+              SmartSoftHub provides comprehensive software development, marketing,
+              and IT solutions tailored for businesses of all sizes across India.
             </p>
             <div className="w-15 h-[3px] bg-cyan mx-auto mt-4 rounded" />
           </div>

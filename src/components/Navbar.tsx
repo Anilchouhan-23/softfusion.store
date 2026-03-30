@@ -4,19 +4,19 @@ import { useState } from "react";
 import Link from "next/link";
 
 const serviceDropdown = [
-  { label: "Computer Repair Services", href: "/services/computer-repair" },
-  { label: "Networking Solutions", href: "/services/network-solutions" },
-  { label: "CCTV Installations", href: "/services/cctv-installation" },
-  { label: "EPABX Installation", href: "/services/epabx" },
-  { label: "Attendance Machines", href: "/services/attendance-machines" },
-  { label: "Bulk SMS Services", href: "/services/bulk-sms" },
+  { label: "Software Development", href: "/services/software-development" },
+  { label: "SaaS Solutions", href: "/services/saas-solutions" },
+  { label: "Digital Tools", href: "/services/digital-tools" },
+  { label: "Social Media Marketing", href: "/services/social-media-marketing" },
+  { label: "Email Marketing", href: "/services/email-marketing" },
+  { label: "IT Consulting", href: "/services/it-consulting" },
 ];
 
 const webServicesDropdown = [
-  { label: "Domain Services", href: "/services" },
-  { label: "Hosting Services", href: "/services" },
-  { label: "Mail Services", href: "/services" },
-  { label: "RCS Message Services", href: "/services" },
+  { label: "Domain & Hosting", href: "/services/domain-hosting" },
+  { label: "Web Applications", href: "/services/web-applications" },
+  { label: "Cloud Services", href: "/services/cloud-services" },
+  { label: "Custom API Integrations", href: "/services/custom-api-integrations" },
 ];
 
 const navLinks = [
@@ -79,7 +79,7 @@ export default function Navbar() {
             >
               {serviceDropdown.map((s) => (
                 <Link
-                  key={s.href}
+                  key={s.label}
                   href={s.href}
                   onClick={close}
                   className="block py-2.5 md:px-5 text-sm text-gray-600 hover:text-cyan hover:bg-blue-50/50 transition-colors"

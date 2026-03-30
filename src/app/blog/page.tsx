@@ -7,71 +7,71 @@ import Link from "next/link";
 const posts = [
   {
     id: 1,
-    title: "Networking Solutions in Hyderabad - Complete Guide",
+    title: "Scaling Your Startup with Custom SaaS Solutions",
     excerpt:
-      "Looking for reliable networking solutions in Hyderabad? SmartSoftHub provides complete LAN/WAN setup, structured cabling, firewall configuration and network security for businesses of all sizes.",
+      "Looking for scalable software? SmartSoftHub provides custom SaaS development, cloud deployment, and API integrations for modern businesses.",
     date: "24 Mar 2026",
-    category: "Networking",
-    icon: "fa-network-wired",
+    category: "Software",
+    icon: "fa-cloud",
   },
   {
     id: 2,
-    title: "Firewall Installation for Business Security",
+    title: "Web App Security: Best Practices",
     excerpt:
-      "Protect your business from cyber threats with professional firewall installation. We work with SonicWall and other leading brands to secure your network infrastructure.",
+      "Protect your user data with professional security implementation. We follow secure coding standards and modern authentication protocols.",
     date: "24 Mar 2026",
     category: "Security",
     icon: "fa-shield-halved",
   },
   {
     id: 3,
-    title: "How to Choose the Best CCTV System for Your Business",
+    title: "How to Choose the Right Digital Marketing Strategy",
     excerpt:
-      "A complete guide to selecting the right CCTV surveillance system. Compare Hikvision, CP Plus and HoneyWell cameras for corporate, retail and residential use.",
+      "A complete guide to selecting the best social media and SEO strategies for your business. Compare organic growth vs paid advertising.",
     date: "16 Sep 2025",
-    category: "CCTV",
-    icon: "fa-video",
+    category: "Marketing",
+    icon: "fa-bullhorn",
   },
   {
     id: 4,
-    title: "Choosing the Best Computer Repair Service",
+    title: "Why Your Business Needs a Custom Web App",
     excerpt:
-      "How to find a reliable computer repair service for your business. Tips on selecting the right provider for desktop, laptop and server maintenance needs.",
+      "How to leverage custom software to automate workflows. Tips on selecting the right tech stack for web applications.",
     date: "12 Sep 2025",
-    category: "Repair",
-    icon: "fa-laptop-medical",
+    category: "Development",
+    icon: "fa-code",
   },
   {
     id: 5,
-    title: "Benefits of Biometric Attendance Systems",
+    title: "Benefits of Cloud Infrastructure",
     excerpt:
-      "Why your office needs a biometric attendance system. Explore fingerprint, face recognition and RFID solutions from RealTime, TimeWatch and ESSL.",
+      "Why your operations need scalable cloud architecture. Explore AWS, Google Cloud, and Azure benefits for enterprise tools.",
     date: "05 Aug 2025",
-    category: "Attendance",
-    icon: "fa-fingerprint",
+    category: "Cloud",
+    icon: "fa-server",
   },
   {
     id: 6,
-    title: "EPABX vs IP-PBX: Which Communication System is Right?",
+    title: "Email Marketing vs Social Media: Which is Better?",
     excerpt:
-      "Compare traditional EPABX with modern IP-PBX phone systems. Understand costs, features and scalability to make the right choice for your business.",
+      "Compare different marketing channels. Understand ROI, campaign costs, and engagement metrics to make the right choice for your business.",
     date: "20 Jul 2025",
-    category: "EPABX",
-    icon: "fa-phone-volume",
+    category: "Marketing",
+    icon: "fa-chart-line",
   },
 ];
 
 const tags = [
-  "HP",
-  "Hikvision",
-  "CP Plus",
-  "CCTV Installation",
-  "Networking Solutions",
-  "Attendance Machines",
-  "EPABX/Intercom",
-  "HoneyWell",
-  "Dell",
-  "Bulk SMS",
+  "SaaS",
+  "Cloud Solutions",
+  "Social Media",
+  "Digital Marketing",
+  "Web Development",
+  "API Integrations",
+  "SEO",
+  "Startup Tools",
+  "Email Campaigns",
+  "Custom Software",
 ];
 
 const recentPosts = posts.slice(0, 5);

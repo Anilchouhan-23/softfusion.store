@@ -23,13 +23,13 @@ export default function CTABanner() {
           Ready to Get Started?
         </span>
         <h2 className="text-3xl md:text-4xl font-bold text-white mb-5 leading-tight">
-          Let&apos;s Build Your IT Infrastructure
+          Let&apos;s Build Your Digital Future
           <br />
           <span className="text-cyan">Together</span>
         </h2>
         <p className="text-white/60 text-lg max-w-2xl mx-auto mb-8 leading-relaxed">
-          From CCTV installations to complete networking solutions, our expert
-          team is ready to deliver tailored IT solutions for your business.
+          From custom software solutions to comprehensive digital marketing, our expert
+          team is ready to deliver tailored digital solutions for your business.
         </p>
         <div className="flex gap-4 flex-wrap justify-center">
           <Link

@@ -11,9 +11,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "SmartSoftHub | IT Solutions & Security Systems",
+  title: "SmartSoftHub | Custom Software & Digital Marketing",
   description:
-    "SmartSoftHub - Leading provider of CCTV installation, networking solutions, computer repair services, and IT infrastructure in India.",
+    "SmartSoftHub - Leading provider of SaaS solutions, custom software engineering, digital tools, and social media marketing in India.",
 };
 
 export default function RootLayout({
