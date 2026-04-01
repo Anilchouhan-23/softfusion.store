@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -6,7 +5,6 @@ import Footer from "@/components/Footer";
 export default function TermsPage() {
   return (
     <>
-      <TopBar />
       <Navbar />
       <PageBanner title="Terms & Conditions" breadcrumb="Terms & Conditions" />
 
@@ -23,24 +21,24 @@ export default function TermsPage() {
 
           <p className="text-gray-600 mb-4">
             All information, products and services displayed on the
-            https://smartsofthub.online/ website constitute an &ldquo;invitation to
+            https://softfusion.store/ website constitute an &ldquo;invitation to
             offer&rdquo;. Your order for purchase constitutes your &ldquo;offer&rdquo;
             which shall be subject to the terms and conditions as listed below.
-            https://smartsofthub.online/ website has the right to accept or reject your
+            https://softfusion.store/ website has the right to accept or reject your
             offer without assigning any reason thereof.
           </p>
 
           <p className="text-gray-600 mb-4">
-            In order to use the https://smartsofthub.online/ website belonging to
-            SmartSoftHub, you (The User) have accepted the following terms and
-            conditions given below. SmartSoftHub reserves the right to add, delete,
+            In order to use the https://softfusion.store/ website belonging to
+            SoftFusion, you (The User) have accepted the following terms and
+            conditions given below. SoftFusion reserves the right to add, delete,
             alter or modify these terms and conditions at any time.
           </p>
 
           <p className="text-gray-600 mb-4">
             You (The User) are therefore advised to read carefully these terms and
-            conditions every time you use the https://smartsofthub.online/ website of
-            SmartSoftHub.
+            conditions every time you use the https://softfusion.store/ website of
+            SoftFusion.
           </p>
 
           <div className="border-t border-gray-200 my-8" />
@@ -58,8 +56,8 @@ export default function TermsPage() {
           </p>
 
           <p className="text-gray-600 mb-4">
-            SmartSoftHub will not be responsible for any damage suffered by users
-            from use of the services on https://smartsofthub.online/. This without
+            SoftFusion will not be responsible for any damage suffered by users
+            from use of the services on https://softfusion.store/. This without
             limitation includes loss of revenue or data resulting from delays,
             non-deliveries, missed deliveries, or service interruptions as may occur
             because of any act / omission of the vendor. This disclaimer of liability
@@ -72,7 +70,7 @@ export default function TermsPage() {
           </p>
 
           <p className="text-gray-600 mb-4">
-            SmartSoftHub will take &ldquo;Full Responsibility&rdquo; of your Order,
+            SoftFusion will take &ldquo;Full Responsibility&rdquo; of your Order,
             if the Order has been shipped to any of the major cities, where we used
             &ldquo;Private Courier Companies&rdquo; to ship your order.
           </p>
@@ -85,21 +83,21 @@ export default function TermsPage() {
           <p className="text-gray-600 mb-4">
             If a non-delivery or late delivery occurs due to a mistake by the User
             (i.e., wrong or incomplete name or address or recipient not available) any
-            extra cost spent by SmartSoftHub for re-delivery shall be claimed from
+            extra cost spent by SoftFusion for re-delivery shall be claimed from
             the User placing the order.
           </p>
 
           <p className="text-gray-600 mb-4">
-            The User agrees to give accurate, authentic and true information. SmartSoftHub
+            The User agrees to give accurate, authentic and true information. SoftFusion
             Store reserves the right to confirm and validate the information and other
             details provided by the User at any point of time. If any such User details
-            are found not to be true wholly or partly, SmartSoftHub has the right in
+            are found not to be true wholly or partly, SoftFusion has the right in
             its sole discretion to reject the registration and debar the User from using
-            the services of www.smartsofthub.online without prior intimation whatsoever.
+            the services of www.softfusion.store without prior intimation whatsoever.
           </p>
 
           <p className="text-gray-600 mb-4">
-            All software licenses and digital services sold by SmartSoftHub are supported according to the terms of the respective vendor/service provider or our SLA agreements. All support requests should be directed through our designated support channels. We are not liable if third-party vendors fail to perform their defined services.
+            All software licenses and digital services sold by SoftFusion are supported according to the terms of the respective vendor/service provider or our SLA agreements. All support requests should be directed through our designated support channels. We are not liable if third-party vendors fail to perform their defined services.
           </p>
 
           <p className="text-gray-600 mb-4">
@@ -109,27 +107,27 @@ export default function TermsPage() {
 
           <p className="text-gray-600 mb-4 font-semibold uppercase text-sm">
             THERE IS NO IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
-            PURPOSE ON ANY ITEM SOLD BY SMARTSOFTHUB.
+            PURPOSE ON ANY ITEM SOLD BY SOFTFUSION.
           </p>
 
           <div className="border-t border-gray-200 my-8" />
 
           <p className="text-gray-600 mb-4">
-            SmartSoftHub will not be responsible for any consequential or incidental
+            SoftFusion will not be responsible for any consequential or incidental
             damage resulting from the sale or use of any merchandise purchased from us.
-            SmartSoftHub liability is limited to the monetary value of the
+            SoftFusion liability is limited to the monetary value of the
             merchandise.
           </p>
 
           <p className="text-gray-600 mb-4">
-            SmartSoftHub will not be liable for any type or kind of credit card
+            SoftFusion will not be liable for any type or kind of credit card
             fraud. The liability to use a card fraudulently will be on the user and the
             onus to &lsquo;prove otherwise&rsquo; shall be exclusively on the user. The
             User must exclusively use his/her own card on the site.
           </p>
 
           <p className="text-gray-600 mb-4">
-            SmartSoftHub shall not entertain any complaints after 7 days, once the
+            SoftFusion shall not entertain any complaints after 7 days, once the
             order is delivered.
           </p>
 
@@ -151,7 +149,7 @@ export default function TermsPage() {
           <p className="text-gray-600 mb-4">
             This World Wide Web site and all of its content, including but not limited to
             the text and images used herein and their arrangement, is copyright &copy;2020
-            SmartSoftHub.
+            SoftFusion.
           </p>
 
           {/* 13.2 Trademarks */}
@@ -159,9 +157,9 @@ export default function TermsPage() {
             13.2 TRADEMARKS NOTICE
           </h3>
           <p className="text-gray-600 mb-4">
-            SmartSoftHub and products referenced herein are trademarks or registered
+            SoftFusion and products referenced herein are trademarks or registered
             trademarks. All other products and company names referenced herein, if any,
-            may be the trademarks of their respective owners. SmartSoftHub does not
+            may be the trademarks of their respective owners. SoftFusion does not
             authorize the use of any trade name, trademark, registered trademark, logo,
             or any copyrighted material referenced herein for any purpose whatsoever,
             including non-commercial applications.
@@ -225,7 +223,7 @@ export default function TermsPage() {
           </h3>
           <p className="text-gray-600 mb-4">
             There are certain risks in using any information, software, or products found
-            on the internet; SmartSoftHub cautions you to make certain that you
+            on the internet; SoftFusion cautions you to make certain that you
             completely understand these risks before retrieving, using, relying upon, or
             purchasing anything via the internet.
           </p>
@@ -240,12 +238,12 @@ export default function TermsPage() {
           </p>
           <p className="text-gray-600 mb-4 font-semibold uppercase text-sm">
             ALTHOUGH REASONABLE CARE HAS BEEN TAKEN WITH REGARD TO THIS SITE&apos;S
-            CONTENT, SMARTSOFTHUB DOES NOT WARRANT OR REPRESENT THAT THIS
+            CONTENT, SOFTFUSION DOES NOT WARRANT OR REPRESENT THAT THIS
             SITE&apos;S CONTENT IS ACCURATE, COMPLETE, OR UP TO DATE, NOR DOES IT
             WARRANT OR REPRESENT THAT ACCESS TO AND USE OF THIS SITE OR THE SERVER WHICH
             MAKES IT AVAILABLE WILL BE UNINTERRUPTED, ERROR-FREE, AND FREE OF COMPUTER
             VIRUSES OR OTHER HARMFUL COMPONENTS. THE CONTENT OF THIS SITE MAY INCLUDE
-            TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS FOR WHICH SMARTSOFTHUB
+            TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS FOR WHICH SOFTFUSION
             ASSUMES NO RESPONSIBILITY.
           </p>
 

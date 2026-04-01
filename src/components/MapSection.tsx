@@ -7,7 +7,7 @@ export default function MapSection() {
         allowFullScreen
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
-        title="SmartSoftHub Location"
+        title="SoftFusion Location"
       />
     </section>
   );

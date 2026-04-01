@@ -6,7 +6,7 @@ export default function WhatsAppButton() {
   const [hovered, setHovered] = useState(false);
   const phone = "919876543210";
   const message = encodeURIComponent(
-    "Hi SmartSoftHub! I'm interested in your IT services. Please share more details."
+    "Hi SoftFusion! I'm interested in your IT services. Please share more details."
   );
 
   return (

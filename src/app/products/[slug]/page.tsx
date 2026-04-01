@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -77,7 +76,6 @@ export default async function ProductDetailsPage({ params }: { params: Promise<{
 
   return (
     <>
-      <TopBar />
       <Navbar />
       
       {/* Product Hero */}

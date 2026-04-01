@@ -16,7 +16,7 @@ export default function Hero() {
             Business
           </h1>
           <p className="text-lg text-blue-200/80 mb-8 leading-relaxed">
-            SmartSoftHub is your trusted partner for Software Development,
+            SoftFusion is your trusted partner for Software Development,
             SaaS Applications, Digital Tools, and comprehensive Digital Marketing
             services. We deliver reliable, secure, and cost-effective technology
             solutions.

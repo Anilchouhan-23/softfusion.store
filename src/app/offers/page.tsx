@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -6,7 +5,6 @@ import Footer from "@/components/Footer";
 export default function OffersPage() {
   return (
     <>
-      <TopBar />
       <Navbar />
       <PageBanner title="Offers" breadcrumb="Offers" />
 

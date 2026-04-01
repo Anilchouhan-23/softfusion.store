@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -12,7 +11,7 @@ const bankAccounts = [
     bankIcon: "fa-building-columns",
     bankColor: "#22409a",
     fields: [
-      { label: "Account Name", value: "SmartSoftHub" },
+      { label: "Account Name", value: "SoftFusion" },
       { label: "Account Number", value: "39876543210" },
       { label: "Bank", value: "State Bank of India" },
       { label: "IFSC Code", value: "SBIN0012345" },
@@ -24,7 +23,7 @@ const bankAccounts = [
     bankIcon: "fa-university",
     bankColor: "#004b8d",
     fields: [
-      { label: "Account Name", value: "SmartSoftHub" },
+      { label: "Account Name", value: "SoftFusion" },
       { label: "Account Number", value: "50200012345678" },
       { label: "Bank", value: "HDFC Bank" },
       { label: "IFSC Code", value: "HDFC0001234" },
@@ -39,7 +38,7 @@ const paymentMethods = [
     title: "UPI Payment",
     desc: "Pay instantly using any UPI app — Google Pay, PhonePe, Paytm, etc.",
     details: [
-      "UPI ID: pay@smartsofthub.online",
+      "UPI ID: pay@softfusion.store",
       "Scan QR code on invoice",
       "Instant confirmation",
       "No extra charges",
@@ -72,7 +71,7 @@ const paymentMethods = [
     title: "Cheque / DD",
     desc: "Pay via cheque or demand draft for large orders and corporate clients.",
     details: [
-      "In favour of: SmartSoftHub",
+      "In favour of: SoftFusion",
       "Subject to clearance",
       "Suitable for bulk orders",
       "Corporate invoicing available",
@@ -119,7 +118,6 @@ export default function PaymentPage() {
 
   return (
     <>
-      <TopBar />
       <Navbar />
       <PageBanner title="Payment Options" breadcrumb="Payment Options" />
 

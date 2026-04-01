@@ -28,7 +28,7 @@ export default function Footer() {
           {/* About */}
           <div>
             <h4 className="text-white text-lg font-semibold mb-5 pb-2.5 relative after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-10 after:h-0.5 after:bg-cyan">
-              SmartSoftHub
+              SoftFusion
             </h4>
             <p className="text-sm leading-relaxed mb-2">
               We Partner with <strong className="text-gray-300">AWS, Google Cloud, Microsoft Azure,
@@ -110,11 +110,11 @@ export default function Footer() {
               </p>
               <p>
                 <i className="fas fa-envelope text-cyan mr-2" />
-                info@smartsofthub.online
+                info@softfusion.store
               </p>
               <p>
                 <i className="fas fa-globe text-cyan mr-2" />
-                www.smartsofthub.online
+                www.softfusion.store
               </p>
             </div>
           </div>
@@ -122,7 +122,7 @@ export default function Footer() {
 
         {/* Bottom */}
         <div className="border-t border-white/10 pt-5 flex flex-col sm:flex-row justify-between items-center gap-3 text-sm">
-          <span>&copy; 2026 SmartSoftHub. All Rights Reserved.</span>
+          <span>&copy; 2026 SoftFusion. All Rights Reserved.</span>
           <span className="flex gap-2 flex-wrap justify-center">
             <Link href="/terms-and-conditions" className="text-cyan hover:underline">
               Terms &amp; Conditions

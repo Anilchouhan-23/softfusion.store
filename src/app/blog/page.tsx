@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -9,7 +8,7 @@ const posts = [
     id: 1,
     title: "Scaling Your Startup with Custom SaaS Solutions",
     excerpt:
-      "Looking for scalable software? SmartSoftHub provides custom SaaS development, cloud deployment, and API integrations for modern businesses.",
+      "Looking for scalable software? SoftFusion provides custom SaaS development, cloud deployment, and API integrations for modern businesses.",
     date: "24 Mar 2026",
     category: "Software",
     icon: "fa-cloud",
@@ -79,7 +78,6 @@ const recentPosts = posts.slice(0, 5);
 export default function BlogPage() {
   return (
     <>
-      <TopBar />
       <Navbar />
       <PageBanner title="Blog" breadcrumb="Blog" />
 

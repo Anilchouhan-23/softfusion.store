@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -46,7 +45,6 @@ const services = [
 export default function ServicesPage() {
   return (
     <>
-      <TopBar />
       <Navbar />
       <PageBanner title="Our Services" breadcrumb="Services" />
 
@@ -57,7 +55,7 @@ export default function ServicesPage() {
               What We Offer
             </h2>
             <p className="text-gray-500 text-lg max-w-2xl mx-auto">
-              SmartSoftHub provides comprehensive software development, marketing,
+              SoftFusion provides comprehensive software development, marketing,
               and IT solutions tailored for businesses of all sizes across India.
             </p>
             <div className="w-15 h-[3px] bg-cyan mx-auto mt-4 rounded" />

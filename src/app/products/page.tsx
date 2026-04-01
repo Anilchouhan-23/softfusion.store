@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -35,7 +34,6 @@ const products = [
 export default function ProductsPage() {
   return (
     <>
-      <TopBar />
       <Navbar />
       <PageBanner title="Our Products" breadcrumb="Products" />
 

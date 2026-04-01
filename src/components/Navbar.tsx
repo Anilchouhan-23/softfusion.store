@@ -42,7 +42,7 @@ export default function Navbar() {
     <nav className="bg-white shadow-[0_2px_20px_rgba(0,0,0,0.08)] sticky top-0 z-50">
       <div className="w-[90%] max-w-[1200px] mx-auto flex justify-between items-center py-3">
         <Link href="/" className="text-[1.7rem] font-bold text-navy shrink-0">
-          Smart<span className="text-cyan">Soft</span>Hub
+          Soft<span className="text-cyan">Fusion</span>
         </Link>
 
         {/* Nav */}

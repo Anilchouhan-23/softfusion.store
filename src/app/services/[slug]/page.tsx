@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -355,7 +354,6 @@ export default async function ServiceDetailsPage({ params }: { params: Promise<{
 
   return (
     <>
-      <TopBar />
       <Navbar />
       
       {/* Dynamic Hero Area */}

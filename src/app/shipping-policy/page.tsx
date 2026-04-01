@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -6,7 +5,6 @@ import Footer from "@/components/Footer";
 export default function ShippingPolicyPage() {
   return (
     <>
-      <TopBar />
       <Navbar />
       <PageBanner title="Shipping Policy" breadcrumb="Shipping Policy" />
 
@@ -16,7 +14,7 @@ export default function ShippingPolicyPage() {
 
           <h3 className="text-lg font-semibold text-navy mt-8 mb-3">1. Delivery Areas</h3>
           <p className="text-gray-600 mb-4">
-            SmartSoftHub delivers products and provides installation services primarily
+            SoftFusion delivers products and provides installation services primarily
             in Hyderabad and surrounding areas. For other locations, please contact us to
             check availability and shipping charges.
           </p>

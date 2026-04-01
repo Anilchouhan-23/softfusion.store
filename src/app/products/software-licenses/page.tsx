@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -20,7 +19,6 @@ const products = [
 export default function SoftwareProductsPage() {
   return (
     <>
-      <TopBar />
       <Navbar />
       <PageBanner title="Software & Licenses" breadcrumb="Software & Licenses" />
       <section className="py-20">

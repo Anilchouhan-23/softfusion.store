@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import HeroSlider from "@/components/HeroSlider";
 import About from "@/components/About";
@@ -14,7 +13,6 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <>
-      <TopBar />
       <Navbar />
       <HeroSlider />
       <About />

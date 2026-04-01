@@ -1,4 +1,3 @@
-import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import PageBanner from "@/components/PageBanner";
 import Footer from "@/components/Footer";
@@ -6,7 +5,6 @@ import Footer from "@/components/Footer";
 export default function ReturnsPage() {
   return (
     <>
-      <TopBar />
       <Navbar />
       <PageBanner title="Returns & Refund Policy" breadcrumb="Returns & Refund" />
 
@@ -43,7 +41,7 @@ export default function ReturnsPage() {
           <h3 className="text-lg font-semibold text-navy mt-8 mb-3">5. Contact for Returns</h3>
           <p className="text-gray-600 mb-4">
             To initiate a return or refund request, please contact us at{" "}
-            <strong>info@smartsofthub.online</strong> or call <strong>+91 98765 43210</strong> with
+            <strong>info@softfusion.store</strong> or call <strong>+91 98765 43210</strong> with
             your order details and reason for return.
           </p>
 
