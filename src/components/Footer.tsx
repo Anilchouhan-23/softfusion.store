@@ -110,7 +110,7 @@ export default function Footer() {
               </p>
               <p>
                 <i className="fas fa-envelope text-cyan mr-2" />
-                info@softfusion.store
+                support@softfusion.store
               </p>
               <p>
                 <i className="fas fa-globe text-cyan mr-2" />
