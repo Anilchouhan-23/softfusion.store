@@ -1,0 +1,2 @@
+origin	https://github.com/Anilchouhan-23/smartsoft (fetch)
+origin	https://github.com/Anilchouhan-23/smartsoft (push)

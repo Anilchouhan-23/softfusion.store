@@ -1,1 +1,4 @@
 Reinitialized existing Git repository in C:/Users/kishore/OneDrive/Desktop/bro/.git/
+[main fbe51d7] SoftFusion Rebrand
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+branch 'main' set up to track 'origin/main'.

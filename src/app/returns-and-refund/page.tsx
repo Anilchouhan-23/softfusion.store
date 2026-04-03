@@ -41,7 +41,7 @@ export default function ReturnsPage() {
           <h3 className="text-lg font-semibold text-navy mt-8 mb-3">5. Contact for Returns</h3>
           <p className="text-gray-600 mb-4">
             To initiate a return or refund request, please contact us at{" "}
-            <strong>info@softfusion.store</strong> or call <strong>+91 98765 43210</strong> with
+            <strong>support@softfusion.store</strong> or call <strong>+91 98765 43210</strong> with
             your order details and reason for return.
           </p>
 

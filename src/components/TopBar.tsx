@@ -9,7 +9,7 @@ export default function TopBar() {
           </span>
           <span>
             <i className="fas fa-envelope text-cyan mr-1.5" />{" "}
-            info@softfusion.store
+            support@softfusion.store
           </span>
           <span>
             <i className="fas fa-phone text-cyan mr-1.5" /> +91 98765 43210

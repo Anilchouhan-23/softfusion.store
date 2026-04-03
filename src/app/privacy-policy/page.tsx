@@ -144,7 +144,7 @@ export default function PrivacyPolicyPage() {
               If you have previously agreed to us using your personal information for
               direct marketing purposes, you may change your mind at any time by writing
               to or emailing us at{" "}
-              <strong>info@softfusion.store</strong>.
+              <strong>support@softfusion.store</strong>.
             </li>
           </ul>
           <p className="text-gray-600 mb-4">
@@ -367,7 +367,7 @@ export default function PrivacyPolicyPage() {
             always keep your personal data rights in high regards and take account of these
             rights. If you do not want us to process your data in this way or have a
             specific objection, please notify us by email,{" "}
-            <strong>info@softfusion.store</strong> with the subject line &ldquo;Data
+            <strong>support@softfusion.store</strong> with the subject line &ldquo;Data
             Protection&rdquo;. Please bear in mind that if you object this may affect our
             ability to carry out services and the tasks in clause 7.2 for your benefit.
           </p>

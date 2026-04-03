@@ -38,7 +38,7 @@ const paymentMethods = [
     title: "UPI Payment",
     desc: "Pay instantly using any UPI app — Google Pay, PhonePe, Paytm, etc.",
     details: [
-      "UPI ID: pay@softfusion.store",
+      "UPI ID: support@softfusion.store",
       "Scan QR code on invoice",
       "Instant confirmation",
       "No extra charges",
