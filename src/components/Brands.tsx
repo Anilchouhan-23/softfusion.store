@@ -4,18 +4,11 @@ import Image from "next/image";
 import { useScrollReveal } from "./useScrollReveal";
 
 const brands = [
-  { image: "/images/brands/hikvision.jpg", name: "Hikvision" },
   { image: "/images/brands/hp.jpg", name: "HP" },
   { image: "/images/brands/sonicwall.jpg", name: "SonicWall" },
   { image: "/images/brands/quickheal.jpg", name: "Quick Heal" },
-  { image: "/images/brands/cpplus.jpg", name: "CP Plus" },
-  { image: "/images/brands/matrix.jpg", name: "Matrix" },
   { image: "/images/brands/tally.jpg", name: "Tally" },
   { image: "/images/brands/dell.jpg", name: "Dell" },
-  { image: "/images/brands/tplink.jpg", name: "TP-Link" },
-  { image: "/images/brands/timewatch.jpg", name: "TimeWatch" },
-  { image: "/images/brands/realtime.jpg", name: "RealTime" },
-  { image: "/images/brands/essl.jpg", name: "ESSL" },
 ];
 
 export default function Brands() {
@@ -26,7 +19,7 @@ export default function Brands() {
     <section className="py-20 bg-[#f8fbff]">
       <div ref={ref} className="w-[90%] max-w-[1200px] mx-auto">
         <div
-          className={`text-center mb-12 transition-all duration-700 ${
+          className={`mb-12 text-center transition-all duration-700 ${
             visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
@@ -34,8 +27,8 @@ export default function Brands() {
             Brands We Deal With
           </h2>
           <p className="text-gray-500 text-lg max-w-xl mx-auto">
-            We deal with <strong>Hikvision, CPPlus, HoneyWell, Realtime,
-            TimeWatch, Dell, HP</strong> and more.
+            We deal with <strong>SonicWall, Quick Heal, Tally, Dell, HP</strong>{" "}
+            and more.
           </p>
           <div className="w-15 h-[3px] bg-cyan mx-auto mt-4 rounded" />
         </div>

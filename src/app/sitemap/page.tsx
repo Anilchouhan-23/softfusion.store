@@ -41,6 +41,7 @@ const sections = [
       { label: "Returns & Refund Policy", href: "/returns-and-refund" },
       { label: "Privacy Policy", href: "/privacy-policy" },
       { label: "Shipping Policy", href: "/shipping-policy" },
+      { label: "Affiliate Disclaimer", href: "/affiliate-disclaimer" },
     ],
   },
 ];
